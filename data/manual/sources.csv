@@ -1,0 +1,4 @@
+source_id,name,url,license,accessed_at
+deepset_pi,deepset Prompt Injections,https://huggingface.co/datasets/deepset/prompt-injections,Apache-2.0,2026-11-16
+itw_jailbreak,In-the-Wild Jailbreak Prompts,https://huggingface.co/datasets/TrustAIRLab/in-the-wild-jailbreak-prompts,MIT,2026-11-16
+dolly,Databricks Dolly 15k,https://huggingface.co/datasets/databricks/databricks-dolly-15k,CC-BY-SA-3.0,2026-11-16

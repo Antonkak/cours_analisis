@@ -1,0 +1,12 @@
+conversation_id,source_id,source_ref,speaker_1_file,speaker_2_file,relationship,duration_s,collected_by,collected_at
+a01,seamless,naturalistic/dev/V03_S0997_I00000134,V03_S0997_I00000134_P3430,V03_S0997_I00000134_P3431,stranger,88.0,Егор и Антон,2026-11-17
+a02,seamless,naturalistic/dev/V00_S0377_I00000482,V00_S0377_I00000482_P0500,V00_S0377_I00000482_P0410,stranger,122.0,Егор и Антон,2026-11-17
+a03,seamless,naturalistic/dev/V00_S0152_I00000135,V00_S0152_I00000135_P0217,V00_S0152_I00000135_P0216,familiar,100.0,Егор и Антон,2026-11-17
+a04,seamless,naturalistic/dev/V01_S0220_I00000501,V01_S0220_I00000501_P1409,V01_S0220_I00000501_P1500,familiar,76.0,Егор и Антон,2026-11-17
+a05,seamless,naturalistic/dev/V00_S0553_I00000138,V00_S0553_I00000138_P0696,V00_S0553_I00000138_P0466,familiar,118.0,Егор и Антон,2026-11-17
+a06,seamless,naturalistic/dev/V03_S1221_I00000302,V03_S1221_I00000302_P3779,V03_S1221_I00000302_P3778,familiar,120.0,Егор и Антон,2026-11-17
+a07,seamless,naturalistic/dev/V03_S0240_I00000387,V03_S0240_I00000387_P1572,V03_S0240_I00000387_P1531,stranger,148.0,Егор и Антон,2026-11-17
+a08,seamless,naturalistic/dev/V00_S0080_I00000384,V00_S0080_I00000384_P0116,V00_S0080_I00000384_P0115,familiar,118.0,Егор и Антон,2026-11-17
+a09,seamless,naturalistic/dev/V01_S0108_I00000309,V01_S0108_I00000309_P1204,V01_S0108_I00000309_P1203,stranger,88.0,Егор и Антон,2026-11-17
+a10,seamless,naturalistic/dev/V01_S0281_I00000137,V01_S0281_I00000137_P1600,V01_S0281_I00000137_P1599,stranger,114.0,Егор и Антон,2026-11-17
+
