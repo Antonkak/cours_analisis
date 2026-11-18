@@ -1,3 +1,4 @@
 # Аудио ручного обогащения: около 400 МБ, в git не храним (см. docs/enrichment_audio.md)
 data/manual_audio/raw/
 data/manual_audio/turns_audio/
+__pycache__/
